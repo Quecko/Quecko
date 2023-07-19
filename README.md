@@ -1,0 +1,5 @@
+- 👋 Hi there! We are Quecko Inc., a blockchain firm on a mission to progress toward a decentralized future! 
+- 👀 We are interested in exploring new horizons and finding creative solutions in Web3.
+- 🌱 We are currently learning and evolving as a company committed to continuous growth. Quecko is focused on learning more about Web Identities, L2 scaling solutions, Prvacy in blockchain and real world tokenization
+- 🤝 We are looking to collaborate on exciting projects that push the boundaries of innovation, disrupt the status quo, and make a positive impact on our society.
+- 📬How to reach us? If you’re interested in connecting with us for a decentralized future, reach us out at www.quecko.com or info@quecko.com
